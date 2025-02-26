@@ -13,7 +13,7 @@
    .container__menu {
         max-width: 100%;
         height: 70px;
-        background: #d4d4ba;
+        background:rgb(18, 170, 13);
         padding: 0px 20px;
         position: relative;
         justify-content: space-between;
@@ -46,7 +46,7 @@
         width: 100%;
         height: 100%;
         display: flex;
-        color: #7f877c;
+        color: white;
         align-items: center;
         padding: 14px;
         text-transform: uppercase;
@@ -57,8 +57,8 @@
 
     nav > ul > li > a:hover {
         transform: scale(1.1);
-        color: white;
-        background: #7f877c;
+        color: rgb(18, 170, 13);
+        background: white;
         box-shadow: 0px 0px 10px 0px rgba(0, 0, 0.5);
     }
 
@@ -101,7 +101,7 @@
 
     nav ul li ul li a {
         display: block;
-        color: #dab3ab;
+        color: rgb(18, 170, 13);
         padding: 6px;
         padding-left: 14px;
         margin-top: 10px;
@@ -111,7 +111,7 @@
     }
 
     nav ul li ul li a:hover {
-        background-color: #dab3ab;
+        background-color: rgb(18, 170, 13);
         color: white;
         transform: scale(1.1);
         padding-left: 30px;
@@ -125,16 +125,16 @@
     <div class="menu">
         <nav>
             <ul>
-                <li><a href="/nutriologaWeb/index.php">Inicio</a></li>
-                <li><a href="/nutriologaWeb/index.php#Biografia">Sobre Mí</a></li>
+                <li><a href="/NutriWeb/index.php">Inicio</a></li>
+                <li><a href="/NutriWeb/index.php#Biografia">Sobre Mí</a></li>
                 <li>
-                    <a href="/nutriologaWeb/html/paginas/services.php">Consultas Nutricionales</a>
+                    <a href="/NutriWeb/html/paginas/services.php">Consultas Nutricionales</a>
                     <ul>
                         <li><a href="#">Online</a></li>                        
                         <li><a href="#">Presencial</a></li>
                     </ul>
                 </li>
-                <li><a href="/nutriologaWeb/html/paginas/recipes.php">Recetario</a>
+                <li><a href="/NutriWeb/html/paginas/recipes.php">Recetario</a>
                     <ul>
                         <li><a href="#">Bebidas</a></li>
                         <li><a href="#">Guarniciones</a></li>
@@ -142,8 +142,8 @@
                     </ul>
                 </li>
                 <!--
-                    <li><a href="/nutriologaWeb/html/paginas/testimonials.php">Testimonios</a></li>
-                    <li><a href="/nutriologaWeb/html/paginas/blog.php">Blog</a>
+                    <li><a href="/NutriWeb/html/paginas/testimonials.php">Testimonios</a></li>
+                    <li><a href="/NutriWeb/html/paginas/blog.php">Blog</a>
                         <ul>
                             <li><a href="recent.php">Artículos Recientes</a></li>
                             <li><a href="categories.php">Categorías</a></li>

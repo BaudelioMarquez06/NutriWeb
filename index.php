@@ -4,23 +4,17 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="shortcut icon" href="assets/img/WebAnita.png" type="image/x-icon">
+    <link rel="shortcut icon" href="assets/img/NutriWeb-logo.png" type="image/x-icon">
     <script src="https://kit.fontawesome.com/379358f3a7.js" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="assets/css/index.css">
-    <title>NutriAna</title>
+    <title>NutriWeb</title>
 </head>
 
 <body>
     <header class="content-header">
         <div class="header__superior">
             <div class="logo">
-                <img src="assets/img/LogoAnita.png" alt="logo">
-                <!--
-                    <div class="titulo">
-                        <p>NutriAna</p>
-                        <span>“Nutrición para el cuerpo, alimento para el alma.” (Mateo 4:4)</span>
-                    </div>
-                -->
+                <img src="assets/img/NutriWeb-logo.png" alt="logo">
             </div>
             <div class="botones">
                 <div class="login">
@@ -79,9 +73,9 @@
                 </div>
                 <div class="contenedor_2">
                     <a href="" class="contenedor_tienda">
-                        <img src="assets/img/iconNutriAni.png" alt="">
+                        <i class="fa-solid fa-apple-whole"></i>
                         <div class="textoTienda">
-                            <h3>NutriAni</h3>
+                            <h3>NutriShop</h3>
                             <p>Encuentra productos naturales y orgánicos para tu bienestar.</p>
                         </div>
                     </a>
